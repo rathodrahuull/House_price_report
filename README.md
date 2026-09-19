@@ -9,20 +9,12 @@ Email: rahulrathodwork13@gmail.com
 Dataset: Washington State Real Estate Data (2014)
 Dataset Size: 4,600+ records, 18 features  
 
-
-
 🎯 Project Objectives
 Analyze and understand real estate market trends in Washington state
-
 Identify key features that influence property prices
-
 Build predictive models to estimate house prices accurately
-
 Compare performance of different machine learning algorithms
-
 Provide actionable insights for real estate investors and professionals
-
-
 
 📊 Dataset Description
 Features (18 total):
@@ -59,12 +51,9 @@ Matplotlib - Data visualization
 Seaborn - Statistical data visualization
 Jupyter Notebook - Interactive development environment
 
-
 Machine Learning Models
 Linear Regression - Baseline model
 Random Forest Regressor - Ensemble learning approach
-
-
 
 📁 Project Files
 .
@@ -75,9 +64,7 @@ Random Forest Regressor - Ensemble learning approach
 ├── data.csv                             (Training Dataset)
 └── output.csv                           (Output/Reference Dataset)
 
-
 🚀 Setup and Installation
-
 Prerequisites
 Python 3.8 or higher
 pip (Python package manager)
@@ -104,12 +91,8 @@ Step 5: Open and Run the Project
 
 
 Open Rahul_HousePricePrediction.ipynb in Jupyter
-
 Run each cell sequentially (Shift+Enter)
-
 Review outputs, visualizations, and model results
-
-
 
 📈 Model Performance
 Model Comparison Results
@@ -136,16 +119,10 @@ Performance Insights
 
 📊 Key Visualizations Included
 Price Distribution Histogram - Shows price frequency distribution
-
 Feature-Price Scatter Plots - Bedrooms, Living Area, Year Built vs Price
-
 Correlation Heatmap - Feature relationships and correlations
-
 Feature Importance Chart - Top features affecting price predictions
-
 Actual vs Predicted Plots - Model performance visualization
-
-
 
 💡 How to Use the Model
 Making Predictions
@@ -167,10 +144,7 @@ Model Interpretation
 R² Score: Measures how well the model fits the data (0-1, higher is better)
 RMSE: Average prediction error in dollars
 MAE: Mean absolute error in dollars
-
 Feature Importance: Percentage contribution to predictions
-
-
 
 🎓 Learning Outcomes
 By completing this project, you will understand:
@@ -183,11 +157,8 @@ By completing this project, you will understand:
 ✅ Real-world machine learning applications
 ✅ Data visualization best practices
 
-
-
 📋 Project Report
 A comprehensive project report is included in Himanshu_HousePriceReport.docx containing:
-
 Executive Summary
 Project Objectives
 Dataset Description
@@ -235,7 +206,6 @@ Real Estate Data Analysis & Valuation Technique
 
 📝 License
 This project is created for educational purposes as part of the AICTE training program.
-
 
 Project Completed: September 2026
 Status: ✅ Complete and Ready for Submission
